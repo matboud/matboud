@@ -13,7 +13,7 @@ FOR BREAKFAST*".
 [![Instagram Badge](https://img.shields.io/badge/-AMINE.MATBOUD-da425b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amine.matboud/)](https://www.instagram.com/amine.matboud/)
 
 ## 📊 Stats!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matboud&layout=compact&theme=vision-friendly-dark)](https://github.com/matboud/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matboud&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## ⚡ Technologies im in love with
 
