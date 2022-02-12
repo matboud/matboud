@@ -12,6 +12,9 @@ FOR BREAKFAST*".
 [![Github Badge](https://img.shields.io/badge/-MATBOUD-black?style=flat-square&logo=github&logoColor=white&link=https://www.hithub.com/matboud/)](https://www.github.com/matboud/)
 [![Instagram Badge](https://img.shields.io/badge/-AMINE.MATBOUD-da425b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amine.matboud/)](https://www.instagram.com/amine.matboud/)
 
+## 📊 Stats!
+https://github-readme-streak-stats.herokuapp.com/?user=matboud
+
 ## ⚡ Technologies im in love with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
