@@ -6,32 +6,18 @@
             \ \  \    \ \  \ \  \ \  \   \ \  \ \ \  \|\  \ \  \\\  \ \  \\\  \ \  \_\\ \ 
              \ \__\    \ \__\ \__\ \__\   \ \__\ \ \_______\ \_______\ \_______\ \_______\
               \|__|     \|__|\|__|\|__|    \|__|  \|_______|\|_______|\|_______|\|_______|
-                                                                                
-                                                                                
-         ┌────────────────────────────────────────────────────────────────────────────┐
-         │                             Proudly Presents:                              │
-         │                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                 │
-         │                                     /\                                     │
-         │                       MATBOUD      /__\   Since 2013                       │
-         │                                   /\  /\                                   │
-         │                                  /__\/__\                                  │
-         │                         Javascript for Breakfast                           │
-         └────────────────────────────────────────────────────────────────────────────┘
 
 
 
 
+## <strong> 🏗️ Building! </strong>
+[![GitHub Streak](https://streak-stats.demolab.com?user=matboud&theme=highcontrast&hide_border=true&border_radius=25&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
 
-## 🖇️ Get in touch!
-
-[![Linkedin Badge](https://img.shields.io/badge/-MATBOUD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matboud/)](https://www.linkedin.com/in/matboud/)
-[![Email Badge](https://img.shields.io/badge/Email-MATBOUD-gray?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:contact@matboud.com)
-[![Instagram Badge](https://img.shields.io/badge/-AMINE.MATBOUD-da425b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amine.matboud/)](https://www.instagram.com/amine.matboud/)
-
-## 🏗️ Building!
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matboud&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## ⚡ Technologies im in love with
+## <strong> 🛠️ Tech stack </strong>
+<details>
+  <summary>
+   <strong>⚔️ Weapons</strong>
+ </summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
@@ -58,6 +44,14 @@
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Microsoft Azur](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 
+</details>
+
+
+## <strong> 🖇️ Get in touch!</strong>
+
+[![Linkedin Badge](https://img.shields.io/badge/-MATBOUD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matboud/)](https://www.linkedin.com/in/matboud/)
+[![Email Badge](https://img.shields.io/badge/Email-MATBOUD-gray?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:contact@matboud.com)
+[![Instagram Badge](https://img.shields.io/badge/-AMINE.MATBOUD-da425b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amine.matboud/)](https://www.instagram.com/amine.matboud/)
 
 ##
 
@@ -67,7 +61,7 @@
 - ⚡ Fun fact: `I don't believe in luck`
 
 © 2023 GitHub, Inc.
-
+ 
 <!--
 **matboud/matboud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
