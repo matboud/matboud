@@ -1,18 +1,34 @@
-### Hi there 👋
+               
+                         _____ ______   ________  _________  ________  ________  ___  ___  ________     
+                        |\   _ \  _   \|\   __  \|\___   ___\\   __  \|\   __  \|\  \|\  \|\   ___ \    
+                        \ \  \\\__\ \  \ \  \|\  \|___ \  \_\ \  \|\ /\ \  \|\  \ \  \\\  \ \  \_|\ \   
+                          \ \  \\|__| \  \ \   __  \   \ \  \ \ \   __  \ \  \\\  \ \  \\\  \ \  \ \\ \  
+                           \ \  \    \ \  \ \  \ \  \   \ \  \ \ \  \|\  \ \  \\\  \ \  \\\  \ \  \_\\ \ 
+                            \ \__\    \ \__\ \__\ \__\   \ \__\ \ \_______\ \_______\ \_______\ \_______\
+                             \|__|     \|__|\|__|\|__|    \|__|  \|_______|\|_______|\|_______|\|_______|
+                                                                                
+                                                                                
+                          ┌────────────────────────────────────────────────────────────────────────────┐
+                          │                             Proudly Presents:                              │
+                          │                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                 │          
+                          │                                     /\                                     │
+                          │                       MATBOUD      /__\   Since 1995                       │
+                          │                                   /\  /\                                   │
+                          │                                  /__\/__\                                  │
+                          │                         Javascript for Breakfast                           │
+                          └────────────────────────────────────────────────────────────────────────────┘                                                                    
 
-I AM *MATBOUD*, AND IM A SELF-TAUGHT
-FULLSTACK JAVASCRIPT DEVELOPER, I ALSO LIKE TO LEARN NEW
-THINGS AS GRAPHIC DESIGN, AND TECHNOLOGY IN ALL TERMS.
-IM IN LOVE WITH REACT.JS AND MY OWN SLOGAN IS "*JAVASCRIPT
-FOR BREAKFAST*".
+
+
+
 
 ## 🖇️ Get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-MATBOUD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matboud/)](https://www.linkedin.com/in/matboud/)
-[![Github Badge](https://img.shields.io/badge/-MATBOUD-black?style=flat-square&logo=github&logoColor=white&link=https://www.hithub.com/matboud/)](https://www.github.com/matboud/)
+[![Email Badge](https://img.shields.io/badge/Email-MATBOUD-gray?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:contact@matboud.com)
 [![Instagram Badge](https://img.shields.io/badge/-AMINE.MATBOUD-da425b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amine.matboud/)](https://www.instagram.com/amine.matboud/)
 
-## 📊 Stats!
+## 🏗️ Building!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matboud&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## ⚡ Technologies im in love with
@@ -46,16 +62,27 @@ FOR BREAKFAST*".
 ##
 
 - 🔭 I’m currently working on `matboud.com`
-- 🌱 I’m currently learning `GraphQL`
+- 🌱 I’m currently learning `Deno`
 - 💬 Ask me about `JAVASCRIPT`
 - ⚡ Fun fact: `I don't believe in luck`
 
-© 2021 GitHub, Inc.
+© 2023 GitHub, Inc.
 
 <!--
 **matboud/matboud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+ _____ ______   ________  _________  ________  ________  ___  ___  ________     
+|\   _ \  _   \|\   __  \|\___   ___\\   __  \|\   __  \|\  \|\  \|\   ___ \    
+\ \  \\\__\ \  \ \  \|\  \|___ \  \_\ \  \|\ /\ \  \|\  \ \  \\\  \ \  \_|\ \   
+ \ \  \\|__| \  \ \   __  \   \ \  \ \ \   __  \ \  \\\  \ \  \\\  \ \  \ \\ \  
+  \ \  \    \ \  \ \  \ \  \   \ \  \ \ \  \|\  \ \  \\\  \ \  \\\  \ \  \_\\ \ 
+   \ \__\    \ \__\ \__\ \__\   \ \__\ \ \_______\ \_______\ \_______\ \_______\
+    \|__|     \|__|\|__|\|__|    \|__|  \|_______|\|_______|\|_______|\|_______|
+                                                                                
+                                                                                
+                                                                                
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
