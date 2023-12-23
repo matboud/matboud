@@ -48,10 +48,14 @@
 
 
 ## <strong> 🖇️ Get in touch!</strong>
-
+<details>
+  <summary>
+   <strong> 📬 Contact</strong>
+ </summary>
 [![Linkedin Badge](https://img.shields.io/badge/-MATBOUD-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matboud/)](https://www.linkedin.com/in/matboud/)
 [![Email Badge](https://img.shields.io/badge/Email-MATBOUD-gray?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:contact@matboud.com)
 [![Instagram Badge](https://img.shields.io/badge/-AMINE.MATBOUD-da425b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amine.matboud/)](https://www.instagram.com/amine.matboud/)
+</details>
 
 ##
 
